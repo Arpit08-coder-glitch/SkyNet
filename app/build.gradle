@@ -4,7 +4,6 @@ plugins {
 
 android {
     compileSdk 35
-
     defaultConfig {
         applicationId "com.arpit.project"
         minSdk 21
